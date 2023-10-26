@@ -1,4 +1,4 @@
 # Estudo-Front-End Academia UFN
 
-Site de uma empresa fake de desenvolvimento de Softwares.
+Um Site de uma empresa fake, de desenvolvimento de Softwares e serviços digitais.
 
