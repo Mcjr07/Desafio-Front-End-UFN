@@ -1,8 +1,6 @@
 
 # Desafio-Front-End /Academia UFN
 
-"Um site de uma empresa fictícia especializada em desenvolvimento de software e serviços digitais."
-
 ## :computer: Projeto
 Desenvolva um site para uma empresa, com todas informações da empresa. A página deve possuir, no mínimo, os seguintes requisitos (ou reutilize uma já desenvolvida que possua no mínimo 4 páginas html):
 
